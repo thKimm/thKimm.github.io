@@ -4,8 +4,6 @@ layout: about
 
 # About Me
 
-# About Me
-
 Welcome to my page!
 
 I’m Taehan Kim, a passionate researcher with a focus on audio preprocessing and its many applications, especially in the realm of speech. 
