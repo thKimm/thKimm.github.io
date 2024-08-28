@@ -3,7 +3,26 @@ layout: about
 ---
 
 # About Me
-I wrote an AI paper on solving the speech enhancement task on embedded systems, where I also contributed to achieving state-of-the-art (SOTA) results in speech separation. Currently, I'm working on papers and patents on source localization in robots. My main research field is audio preprocessing and its application in various tasks, particularly in speech.
+
+# About Me
+
+Welcome to my page!
+
+I’m Taehan Kim, a passionate researcher with a focus on audio preprocessing and its many applications, especially in the realm of speech. 
+
+Over the years, I’ve had the privilege of working on a variety of exciting projects, including TTS (Text-to-Speech), Speaker Diarization, Speech Enhancement/Separation, and embedding speech processing modules into robots. Currently, my research is centered around Speech Enhancement (offline model, online model, lightweight model for embedded systems), Speech Separation (achieving SOTA results, generalizing for more than two speakers, online models), and personalized Speech Processing.
+But beyond these, I’m always eager to explore new challenges and push the boundaries of what’s possible.
+
+I previously majored in Electronic Engineering at Sogang University in Seoul.
+I also interned at the [Intelligent Information Processing Lab](http://iip.sogang.ac.kr) (Prof. Hyung-min Park) within the Department of Electronic Engineering. Now, I’m continuing my journey as a master’s student in the same lab.
+
+I love to connect with others who share my interests or simply want to chat about the latest in tech. Feel free to reach out!
+
+#### 💡**New!** 
+
+I’m also a Visiting Research Fellow at Carnegie Mellon University, where I’m continuing to broaden my horizons and collaborate with brilliant minds in the field.
+
+
 
 <br/>
 
@@ -58,9 +77,11 @@ Submitted to NeurIPS 2025. [[Link]](https://arxiv.org/abs/2406.05983)[[Demo]](ht
 ### Sogang University, Seoul, Korea
 #### B.S.E. in Electronic Engr. (Mar 2018 - Feb 2023)
 summa cum laude, GPA: 4.21/4.3, 134 credits in 7 semesters	
+
 ### Sogang University, Seoul, Korea
 #### M.S.E. in Electronic Engr. (Mar 2023 — Present)
 GPA: 4.23/4.3, 21 credits in 3 semesters	
+
 ### Carnegie Mellon University, PA, US
 #### Visiting Research Fellow in S3D for IITP program. (Jul 2024 — Present)	 
 
@@ -72,4 +93,4 @@ GPA: 4.23/4.3, 21 credits in 3 semesters
 Awarded for real-time speaker-specific meeting minutes system.	 
 
 ### Outstanding Graduate Award	Feb. 2023
-Graduated as Valedictorian from the Engineering Department.\
+Graduated as Valedictorian from the Engineering Department.
