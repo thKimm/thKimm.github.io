@@ -1,6 +1,6 @@
 # Site settings
 title: Taehan Kim
-baseurl: "/taehankim"
+baseurl: ""
 url: "https://thKimm.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
@@ -51,7 +51,7 @@ plugins:
 
 # Permalinks
 permalink: /:year-:month-:day/:title
-paginate_path: "/portfolio/page:num/"
+paginate_path: "/work/page:num/"
 paginate: 5
 exclude:
   - "Gemfile"
