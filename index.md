@@ -3,24 +3,73 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+I wrote an AI paper on solving the speech enhancement task on embedded systems, where I also contributed to achieving state-of-the-art (SOTA) results in speech separation. Currently, I'm working on papers and patents on source localization in robots. My main research field is audio preprocessing and its application in various tasks, particularly in speech.
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+## Interests
+Speech Enhancement, Speaker Verification, Interesting Problems with Deep Learning
 
 <br/>
 
-# Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+# Work Experience
+### Research Student
+  * [IIP Lab](http://iip.sogang.ac.kr), Sogang University (Jul 2021 - Feb 2023)
+    * System Developer / Machine Learning Engineer
+
+### Researcher
+  * [IIP Lab](http://iip.sogang.ac.kr), Sogang University (Mar 2023 - Present)
+    * System Developer / Machine Learning Engineer / Embedded System Developer
+
+### Visiting Research Fellow
+  * Carnegie Mellon University (Aug 2024 - Present)
+    * System Developer / Machine Learning Engineer / Embedded System Developer
+
+<br/>
+
+# Projects
+### Text-to-Speech (TTS) service provider website 
+Designed a TTS model using Tacotron2 and Hi-Fi GAN vocoder.
+Established a pipeline system to connect AI servers with websites.
+### Real-time meeting minutes transcription system [[Demo]](https://www.youtube.com/watch?v=m5jFr79sqtg)
+Developed a rule-based Speaker Diarization system based on similarity criteria between newly generated speaker embeddings and stored speaker table.
+Designed a system integrating Source Separation, Speaker Diarization, and ASR. 
+### Source Localization and Speech Enhancement in Robot vacuum cleaner. With LG electronics
+Fabricated a lightweight Speech Enhancement model tailored for embedded systems.
+Devised a mask based on the output of deep learning models and formulated a source localization algorithm utilizing it
+### Multi-Channel Audio preprocessing
+Constructed an integrated system for signal processing and speech preprocessing algorithms.
+### Speech Separation [[Demo]](https://fordemopage.github.io/SepReformer/)
+Developed a novel and advanced architecture for Speech Separation and conducted its design and experiments. 
+
+<br/>
+
+# Publication / Preprints
+[1] J. -H. Kim*, Taehan Kim*, S. -H. Kim, J. -M. Song, Y. -J Park, H. -M. Park. A Real-Time Sound Source Localization System for Robotic Vacuum Cleaner with a Microphone Array 	
+Submitted to IEEE Sensors Journal(2024) /Applying for KR, US Patent(2024W) 
+
+[2] Ui-Hyeop Shin*, Sangyoun Lee, Taehan Kim, Hyung-Min Park. Separate and Reconstruct: Asymmetric Encoder-Decoder for Speech Separation.	
+Submitted to NeurIPS 2025. [[Link]](https://arxiv.org/abs/2406.05983)[[Demo]](https://fordemopage.github.io/SepReformer/)
+
+
+<br/>
+
+# Education
+### Sogang University, Seoul, Korea
+#### B.S.E. in Electronic Engr. (Mar 2018 - Feb 2023)
+summa cum laude, GPA: 4.21/4.3, 134 credits in 7 semesters	
+### Sogang University, Seoul, Korea
+#### M.S.E. in Electronic Engr. (Mar 2023 — Present)
+GPA: 4.23/4.3, 21 credits in 3 semesters	
+### Carnegie Mellon University, PA, US
+#### Visiting Research Fellow in S3D for IITP program. (Jul 2024 — Present)	 
+
+
+<br/>
+
+# Awards
+### Sogang Convergence Technology Contest (3rd place)	Dec. 2022
+Awarded for real-time speaker-specific meeting minutes system.	 
+
+### Outstanding Graduate Award	Feb. 2023
+Graduated as Valedictorian from the Engineering Department.\
