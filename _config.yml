@@ -1,6 +1,7 @@
 # Site settings
 title: Taehan Kim
-baseurl: "/taehankim"
+# baseurl: "/taehankim"
+baseurl: ""
 url: "https://thKimm.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
