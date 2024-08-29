@@ -52,7 +52,7 @@ plugins:
 # Permalinks
 permalink: /:year-:month-:day/:title
 paginate_path: "/work/page:num/"
-paginate: 5
+paginate: 10
 exclude:
   - "Gemfile"
   - "Gemfile.lock"
@@ -60,3 +60,6 @@ exclude:
   - "LICENSE"
   - "READE.md"
   - "screenshot.png"
+
+# description
+description: "[Pr] : Project, [C] : Conference, [J] : Journal, [Pt] : Patent"

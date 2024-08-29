@@ -1,7 +1,7 @@
 ---
 layout: about 
 ---
-
+<br/>
 # About Me
 
 Welcome to my page!
@@ -21,8 +21,6 @@ I love to connect with others who share my interests or simply want to chat abou
 I’m also a Visiting Research Fellow at Carnegie Mellon University, where I’m continuing to broaden my horizons and collaborate with brilliant minds in the field.
 
 
-
-<br/>
 
 ## Interests
 Speech Enhancement, Speaker Verification, Interesting Problems with Deep Learning
@@ -45,13 +43,13 @@ Speech Enhancement, Speaker Verification, Interesting Problems with Deep Learnin
 <br/>
 
 # Projects
-### Text-to-Speech (TTS) service provider website 
+### Text-to-Speech (TTS) Service Website 
 Designed a TTS model using Tacotron2 and Hi-Fi GAN vocoder.
 Established a pipeline system to connect AI servers with websites.
-### Real-time meeting minutes transcription system [[Demo]](https://www.youtube.com/watch?v=m5jFr79sqtg)
+### Real-time Meeting Minutes Transcription System [[Demo]](https://www.youtube.com/watch?v=m5jFr79sqtg)
 Developed a rule-based Speaker Diarization system based on similarity criteria between newly generated speaker embeddings and stored speaker table.
 Designed a system integrating Source Separation, Speaker Diarization, and ASR. 
-### Source Localization and Speech Enhancement in Robot vacuum cleaner. With LG electronics
+### Source Localization and Speech Enhancement in Robot Vacuum Cleaner. With LG electronics
 Fabricated a lightweight Speech Enhancement model tailored for embedded systems.
 Devised a mask based on the output of deep learning models and formulated a source localization algorithm utilizing it
 ### Multi-Channel Audio preprocessing
@@ -62,17 +60,22 @@ Developed a novel and advanced architecture for Speech Separation and conducted 
 <br/>
 
 # Publication / Preprints
-[1] J. -H. Kim*, Taehan Kim*, S. -H. Kim, J. -M. Song, Y. -J Park, H. -M. Park. A Real-Time Sound Source Localization System for Robotic Vacuum Cleaner with a Microphone Array 	
-Submitted to IEEE Sensors Journal(2024) /Applying for KR, US Patent(2024W) 
+[W] : Workshop, [J] : Journal, [C] : Confernece, [Pt] : Patent
 
-[2] Ui-Hyeop Shin*, Sangyoun Lee, Taehan Kim, Hyung-Min Park. Separate and Reconstruct: Asymmetric Encoder-Decoder for Speech Separation.	
-Submitted to NeurIPS 2025. [[Link]](https://arxiv.org/abs/2406.05983)[[Demo]](https://fordemopage.github.io/SepReformer/)
+**[W1]** Yeon-Jin Kim*, **Taehan Kim** *, Hyung-Min Park. **Real-time meeting minutes using speaker diarization.** <br>Brain Engineering Society of Korea workshop*(2023)
+
+**[J1, Pt1]** J. -H. Kim*, **Taehan Kim** *, S. -H. Kim, J. -M. Song, Y. -J Park, Hyung-Min Park. **A Real-Time Sound Source Localization System for Robotic Vacuum Cleaner with a Microphone Array.** <br>Submitted to IEEE Sensors Journal*(2024) /Applying for KR, US Patent*(2024W) 
+
+**[C1]** **Taehan Kim** *, Hyung-Min Park. **Comparison and Analysis of Output Methods for Real-Time Multichannel Speech Enhancement Models.** <br>Korean Society of Speech Sciences Conference*(2024)
+
+**[C2]** Ui-Hyeop Shin*, Sangyoun Lee, **Taehan Kim**, Hyung-Min Park. **Separate and Reconstruct: Asymmetric Encoder-Decoder for Speech Separation.** <br>Submitted to NeurIPS 2025.* [[Link]](https://arxiv.org/abs/2406.05983)[[Demo]](https://fordemopage.github.io/SepReformer/)
+
 
 
 <br/>
 
 # Education
-### Sogang University, Seoul, Korea
+### Sogang University, Seoul, Korea<br>
 #### B.S.E. in Electronic Engr. (Mar 2018 - Feb 2023)
 summa cum laude, GPA: 4.21/4.3, 134 credits in 7 semesters	
 

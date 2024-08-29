@@ -8,7 +8,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Taehan Kim
-  desc: AI, Signal Processing, Audio/Speech Enhancement
+  desc: AI, Single/Multi-channel Signal Processing, Audio/Speech Enhancement
   email: taehank@gmail.com
   selfie: assets/img/home/profile.jpg
 
@@ -53,7 +53,7 @@ plugins:
 # Permalinks
 permalink: /:year-:month-:day/:title
 paginate_path: "/work/page:num/"
-paginate: 5
+paginate: 10
 exclude:
   - "Gemfile"
   - "Gemfile.lock"
