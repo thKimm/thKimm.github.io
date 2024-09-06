@@ -52,26 +52,41 @@
 ## My job -->
 
 <h1 id="task-describtion">Task Describtion</h1>
-<p><br /></p>
+<p>The project focuses on enhancing the quality of speech in low SNR conditions by utilizing a multichannel microphone system. This system leverages the spatial correlation between noise and speech to effectively suppress background noise in real-time, improving the clarity of speech for tasks such as speech recognition.
+<br /></p>
 
 <h2 id="background">Background</h2>
-<p><br /></p>
+<ul>
+  <li>Lightweight speech enhancement models suffer from degraded performance in low SNR conditions.</li>
+  <li>Single-channel microphones provide limited information, making it difficult to separate speech from noise.
+<br /></li>
+</ul>
 
 <h2 id="proposed-solution">Proposed Solution</h2>
 <ul>
-  <li></li>
-  <li></li>
+  <li>A multichannel microphone system provides more spatial information, enabling better separation of speech and noise.</li>
+  <li>Various models such as single-channel and multichannel setups were analyzed and compared in terms of speech quality improvement and computational efficiency.</li>
   <li><br /></li>
 </ul>
 
 <h1 id="outcome">Outcome</h1>
-
+<div style="display: flex; justify-content: center;">
+  <img src="../assets/img/work/Conf1.png" alt="Image 1" style="width: 100%; display: inline-block; margin-right: 2%;" />
+</div>
 <p><br /></p>
 
 <h1 id="my-contributions">My Contributions</h1>
 <ul>
-  <li></li>
-  <li><br /></li>
+  <li>Developed and tested multiple real-time speech enhancement models using multichannel input.
+Analyzed and compared the results of various methods, such as single-channel and multichannel setups, for speech enhancement.</li>
+  <li>Conducted experiments with SNR improvement, PESQ scores, and other metrics to validate the models’ effectiveness.</li>
+  <li>Filter-and-Sum Beamformer System: The idea for this method came from analyzing traditional beamforming techniques, where the final output is a sum of channel-specific outputs, each weighted appropriately. This is conceptually similar to deep learning, where each channel’s output is weighted by the model.
+    <ul>
+      <li>Inspired by this analogy, the Filter-and-Sum approach was applied to the deep learning output as well. By summing the outputs from each channel in the model, the system can effectively make use of spatial information to enhance speech while suppressing noise.</li>
+      <li>This method optimally combines the outputs from different microphone channels, leading to significant improvements in speech quality without a substantial increase in computational complexity.
+<br /></li>
+    </ul>
+  </li>
 </ul>
 
 
@@ -92,7 +107,7 @@
 
     <footer>
       <span>
-        &copy; <time datetime="2024-09-06 00:09:41 -0400">2024</time> Taehan Kim. <a href="https://github.com/kssim/about-portfolio/">A.P</a> theme by kssim.
+        &copy; <time datetime="2024-09-06 02:09:53 -0400">2024</time> Taehan Kim. <a href="https://github.com/kssim/about-portfolio/">A.P</a> theme by kssim.
       </span>
     </footer>
   </body>

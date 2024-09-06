@@ -52,26 +52,34 @@
 ## My job -->
 
 <h1 id="task-describtion">Task Describtion</h1>
-<p><br /></p>
+<p>This project was part of the Speech Signal Improvement Challenge 2024, where we participated in the Real-time track. The main objective was to improve speech signal quality in real-time, targeting environments with diverse noise sources and challenging acoustics. 
+<br /></p>
 
 <h2 id="background">Background</h2>
-<p><br /></p>
+<p>The challenge evaluated speech enhancement systems in both real-time and non-real-time tracks. The real-time track, in particular, focused on improving speech quality for communication systems in noisy environments, considering metrics like Word Accuracy (WAcc) and ITU-T P.835 subjective evaluations. We developed an advanced deep learning model that successfully enhanced speech signals in real-time, addressing issues like low signal-to-noise ratio (SNR), reverberation, and interference from multiple speakers.
+<br /></p>
 
 <h2 id="proposed-solution">Proposed Solution</h2>
+<div style="display: flex; justify-content: center;">
+  <img src="../assets/img/work/Chal1_fr.png" alt="Image 1" style="width: 100%; display: inline-block; margin-right: 2%;" />
+</div>
 <ul>
-  <li></li>
-  <li></li>
-  <li><br /></li>
+  <li>Frequency Rolling (FR) : This process effectively rolled the frequency axis into the channel axis, allowing grouped convolutions to handle the frequencies separately with a reduced computational footprint.</li>
+  <li>Frequency-wise Self-Attention with Time-wise LSTM for Causality
+<br /></li>
 </ul>
 
 <h1 id="outcome">Outcome</h1>
-
-<p><br /></p>
+<div style="display: flex; justify-content: center;">
+  <img src="../assets/img/work/Chal1.png" alt="Image 1" style="width: 100%; display: inline-block; margin-right: 2%;" />
+</div>
+<p>We ranked 5th out of 13 teams in the Real-time Track.
+<br /></p>
 
 <h1 id="my-contributions">My Contributions</h1>
 <ul>
-  <li></li>
-  <li><br /></li>
+  <li>I applied Frequency Rolling (FR) because I found it effective in reducing computational complexity without significantly degrading performance. This approach has been successfully used in previous research on music separation, where rolling the frequency axis into the channel axis improved efficiency while preserving the model’s capacity to handle frequency domain information.
+<br /></li>
 </ul>
 
 
@@ -92,7 +100,7 @@
 
     <footer>
       <span>
-        &copy; <time datetime="2024-09-06 00:09:41 -0400">2024</time> Taehan Kim. <a href="https://github.com/kssim/about-portfolio/">A.P</a> theme by kssim.
+        &copy; <time datetime="2024-09-06 02:09:53 -0400">2024</time> Taehan Kim. <a href="https://github.com/kssim/about-portfolio/">A.P</a> theme by kssim.
       </span>
     </footer>
   </body>
