@@ -71,11 +71,11 @@ Speech Enhancement, Speaker Verification, Interesting Problems with Deep Learnin
 
 **[W1]** Yeon-Jin Kim, **Taehan Kim**, Hyung-Min Park. **Real-time meeting minutes using speaker diarization.** <br>Brain Engineering Society of Korea workshop(2023)
 
-**[J1, Pt1]** J. -H. Kim, **Taehan Kim**, S. -H. Kim, J. -M. Song, Y. -J Park, Hyung-Min Park. **A Real-Time Sound Source Localization System for Robotic Vacuum Cleaner with a Microphone Array.** <br>Submitted to IEEE Sensors Journal*(2024) /Applying for KR, US Patent(2024W) 
+**[J1, Pt1]** J. -H. Kim, **Taehan Kim**, S. -H. Kim, J. -M. Song, Y. -J Park, Hyung-Min Park. **A Real-Time Sound Source Localization System for Robotic Vacuum Cleaner with a Microphone Array.** <br>IEEE Sensors Journal*(2024) /Applying for KR, US Patent(2024W) 
 
 **[C1]** **Taehan Kim**, Hyung-Min Park. **Comparison and Analysis of Output Methods for Real-Time Multichannel Speech Enhancement Models.** <br>Korean Society of Speech Sciences Conference(2024)
 
-**[C2]** Ui-Hyeop Shin, Sangyoun Lee, **Taehan Kim**, Hyung-Min Park. **Separate and Reconstruct: Asymmetric Encoder-Decoder for Speech Separation.** <br>Submitted to NeurIPS 2025. [[Link]](https://arxiv.org/abs/2406.05983)[[Demo]](https://fordemopage.github.io/SepReformer/)
+**[C2]** Ui-Hyeop Shin, Sangyoun Lee, **Taehan Kim**, Hyung-Min Park. **Separate and Reconstruct: Asymmetric Encoder-Decoder for Speech Separation.** <br>Accepted to NeurIPS 2024. [[Link]](https://arxiv.org/abs/2406.05983)[[Demo]](https://fordemopage.github.io/SepReformer/)
 
 
 <br/>
