@@ -45,6 +45,7 @@ Speech Enhancement, Speaker Verification, Interesting Problems with Deep Learnin
 <br/>
 
 # Projects
+
 ### Text-to-Speech (TTS) Service Website 
 * Designed a TTS model using Tacotron2 and Hi-Fi GAN vocoder.<br>
 * Established a pipeline system to connect AI servers with websites.
@@ -75,7 +76,7 @@ Speech Enhancement, Speaker Verification, Interesting Problems with Deep Learnin
 
 **[C1]** **Taehan Kim**, Hyung-Min Park. **Comparison and Analysis of Output Methods for Real-Time Multichannel Speech Enhancement Models.** <br>Korean Society of Speech Sciences Conference(2024)
 
-**[C2]** Ui-Hyeop Shin, Sangyoun Lee, **Taehan Kim**, Hyung-Min Park. **Separate and Reconstruct: Asymmetric Encoder-Decoder for Speech Separation.** <br>Accepted to NeurIPS 2024. [[Link]](https://arxiv.org/abs/2406.05983)[[Demo]](https://fordemopage.github.io/SepReformer/)
+**[C2]** Ui-Hyeop Shin, Sangyoun Lee, **Taehan Kim**, Hyung-Min Park. **Separate and Reconstruct: Asymmetric Encoder-Decoder for Speech Separation.** <br>NeurIPS 2024. [[Link]](https://arxiv.org/abs/2406.05983)[[Demo]](https://fordemopage.github.io/SepReformer/)
 
 
 <br/>
