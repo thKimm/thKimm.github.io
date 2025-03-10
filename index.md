@@ -16,14 +16,9 @@ I previously majored in Electronic Engineering at Sogang University in Seoul, **
 
 I love to connect with others who share my interests or simply want to chat about the latest in tech. Feel free to reach out!
 
-#### 💡**New!** 
-
-I’m also a Visiting Research Fellow at Carnegie Mellon University, where I’m continuing to broaden my horizons and collaborate with brilliant minds in the field.
-
-
 
 ## Interests
-Speech Enhancement, Speaker Verification, Interesting Problems with Deep Learning
+Speech Enhancement, Speech Separation, Speaker Verification, Interesting Problems with Deep Learning
 
 <br/>
 
@@ -40,31 +35,42 @@ Speech Enhancement, Speaker Verification, Interesting Problems with Deep Learnin
     * System Developer / Machine Learning Engineer / Embedded System Developer
 
 ### Visiting Research Fellow
-  * Carnegie Mellon University (Aug 2024 - Present)
+  * Carnegie Mellon University (Aug 2024 - Feb 2025)
 
 <br/>
 
 # Projects
 
-### Text-to-Speech (TTS) Service Website 
+<br>
+
+### Text-to-Speech (TTS) Service Website (Mar 2022 - Jun 2022, IIP Lab, Sogang Univ.)
 * Designed a TTS model using Tacotron2 and Hi-Fi GAN vocoder.<br>
 * Established a pipeline system to connect AI servers with websites.
-### Real-time Meeting Minutes Transcription System [[Demo]](https://www.youtube.com/watch?v=m5jFr79sqtg)
+### Real-time Meeting Minutes Transcription System [[Demo]](https://www.youtube.com/watch?v=m5jFr79sqtg) (Jul 2022 - Nov 2022, IIP Lab, Sogang Univ.)
 * Developed a rule-based Speaker Diarization system based on similarity criteria between newly generated speaker embeddings and stored speaker table.<br>
 * Designed a system integrating Source Separation, Speaker Diarization, and ASR. 
-### Source Localization and Speech Enhancement in Robot Vacuum Cleaner
+### Source Localization and Speech Enhancement in Robot Vacuum Cleaner (May 2023 - Nov 2023, IIP Lab, Sogang Univ.)
 * Fabricated a lightweight Speech Enhancement model tailored for embedded systems.<br>
 * Devised a mask based on the output of deep learning models and formulated a source localization algorithm utilizing it.
-### Speech Signal Improvement Challenge - ICASSP2024
+### Multi-Channel Audio preprocessing (Sep 2023 - Dec 2023, IIP Lab, Sogang Univ.)
+* Constructed an integrated system for signal processing and speech preprocessing algorithms.
+### Speech Signal Improvement Challenge - ICASSP2024 (Jan 2024 - Feb 2024, IIP Lab, Sogang Univ.)
 * Participated in the Real-time Track, placing 5th out of 13 teams.<br>
 * Designed various model compression techniques and developed loss functions and training methods to maintain performance after compression.
-### Multi-Channel Audio preprocessing
-* Constructed an integrated system for signal processing and speech preprocessing algorithms.
-### Speech Separation [[Demo]](https://fordemopage.github.io/SepReformer/)
+### Speech Separation [[Demo]](https://fordemopage.github.io/SepReformer/) (Feb 2024 - May 2024, IIP Lab, Sogang Univ.)
 * Developed a novel and advanced architecture for Speech Separation and conducted its design and experiments. 
-### Multi-Channel Speech Enhnancement for Speech Recognition in Robot Vaccum Cleaner
+### Multi-Channel Speech Enhnancement for Speech Recognition in Robot Vaccum Cleaner (Mar 2024 - Sep 2024, IIP Lab, Sogang Univ.)
 * Fabricated a lightweight Speech Enhancement model tailored for embedded systems.<br>
 * Research on Speech Enhancement Training Methods to Improve Speech Recognition Performance in Low SNR Conditions.
+### Multi-Channel Speech Enhnancement for Speech Recognition in Robot Vaccum Cleaner (Mar 2024 - Sep 2024, IIP Lab, Sogang Univ.)
+* Fabricated a lightweight Speech Enhancement model tailored for embedded systems.<br>
+* Research on Speech Enhancement Training Methods to Improve Speech Recognition Performance in Low SNR Conditions.
+### Text-to-Music(TTM) Unlearning (Sep 2024 - Nov 2024, Carnegie Mellon Univ.)
+* Did unlearn the TTM model (MusicGen) to remove copyright contents or harmful music.<br>
+* Research on Effective Methods to Unlearn Music Information in TTM Model.
+### Hallucination Detection for Audio Language Models (Sep 2024 - Nov 2024, Carnegie Mellon Univ.)
+* Propose the metric to evaluate the reliablity of model prediction and quantify the risk of hallucinations.<br>
+* Combined two key feature : decisiveness and uncertainty.
 <br/>
 
 # Publication / Preprints / Experience
@@ -91,7 +97,7 @@ summa cum laude, GPA: 4.21/4.3, 134 credits in 7 semesters
 GPA: 4.23/4.3, 21 credits in 3 semesters	
 
 ### Carnegie Mellon University, PA, US
-#### Visiting Research Fellow in S3D for IITP program. (Jul 2024 — Present)	 
+#### Visiting Research Fellow in S3D for IITP program. (Jul 2024 — Feb 2025)	 
 
 
 <br/>
