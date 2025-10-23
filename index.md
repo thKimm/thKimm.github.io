@@ -84,6 +84,7 @@ Speech Enhancement, Speech Separation, Speaker Verification, Interesting Problem
 
 **[C2]** Ui-Hyeop Shin, Sangyoun Lee, **Taehan Kim**, Hyung-Min Park. **Separate and Reconstruct: Asymmetric Encoder-Decoder for Speech Separation.** <br>NeurIPS 2024. [[Link]](https://arxiv.org/abs/2406.05983)[[Demo]](https://fordemopage.github.io/SepReformer/)
 
+**[W2]** Jinju Kim, **Taehan Kim**, Abdul Waheed, Jong Hwan Ko, Rita Singh. **No Encore: Unlearing as Opt-Out in Music Generation.** <br>Accepted by AI4Music at NeurIPS 2025. [[Link]](https://arxiv.org/abs/2509.06277)
 
 <br/>
 
